@@ -50,3 +50,9 @@ h3 {
     word-spacing: 5px;
     line-height: 23px;
 }
+.para {
+    font-size: 14px;
+    width: 550px;
+    padding-left: 50px;
+    font-style: italic;
+}
